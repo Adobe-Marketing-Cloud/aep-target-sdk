@@ -12,7 +12,7 @@ More details about them can be found at:
 
 | Extension | Cocopods | Maven | Github |
 | :--- | :--- | :--- | :--- |
-| [Adobe Target VEC](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target-vec) | [![Cocoapods](https://img.shields.io/cocoapods/v/ACPTargetVEC.svg?color=orange&label=ACPTargetVEC&logo=apple&logoColor=white&style=flat-square)](https://cocoapods.org/pods/ACPTargetVEC) | [![Maven Central](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/target-vec.svg?logo=android&logoColor=white)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/target-vec) | [Android](https://github.com/Adobe-Marketing-Cloud/aep-target-sdk/tree/master/android) \| [iOS](https://github.com/Adobe-Marketing-Cloud/aep-target-sdk/tree/master/iOS/ACPTarget) |
+| [Adobe Target VEC](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target-vec) | [![Cocoapods](https://img.shields.io/cocoapods/v/ACPTargetVEC.svg?color=orange&label=ACPTargetVEC&logo=apple&logoColor=white&style=flat-square)](https://cocoapods.org/pods/ACPTargetVEC) | [![Maven Central](https://img.shields.io/maven-central/v/com.adobe.marketing.mobile/target-vec.svg?logo=android&logoColor=white)](https://mvnrepository.com/artifact/com.adobe.marketing.mobile/target-vec) | [Android](https://github.com/Adobe-Marketing-Cloud/aep-target-sdk/tree/master/android) \| [iOS](https://github.com/Adobe-Marketing-Cloud/aep-target-sdk/tree/master/iOS/ACPTargetVEC) |
 
 ## Installing the Target VEC SDK for Android
 

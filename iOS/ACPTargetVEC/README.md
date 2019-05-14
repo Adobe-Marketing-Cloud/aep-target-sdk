@@ -1,3 +1,3 @@
-This directory contains iOS binaries for Target Mobile SDK.
+This directory has `.a` iOS binaries for the Adobe Target VEC Android SDK.
 
-For installation instructions, please see the README on the root of the master branch.
+For installation instructions, please see the [README](https://github.com/Adobe-Marketing-Cloud/aep-target-sdk/blob/master/README.md) on the root of the `master` branch.
