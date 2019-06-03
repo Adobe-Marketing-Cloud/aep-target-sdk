@@ -70,13 +70,6 @@
  Initializes the Target VEC extension without the SDK v5 framework.
  */
 + (void) registerExtension;
-/**
- Entry point to deep link integration for Mobile VEC.   The URL must also be added into the manifest, and then added
- to both UIApplicationDelegate::application:handleOpenURL: and UIApplicationDelegate::application:openURL:
- 
- @param url URL of the deeplink to be handled by Mobile VEC
- */
-+ (void) handleDeepLink: (nullable NSURL *) url;
 
 /**
  * Set parameters to be included in all subsequent Target requests
