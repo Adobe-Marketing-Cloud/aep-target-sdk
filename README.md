@@ -1,6 +1,10 @@
 # Adobe Target VEC SDK
 Home of the official Target VEC SDKs for mobile apps.
 
+## Documentation Links
+- [Adobe Target Documentation](https://docs.adobe.com/content/help/en/target/using/implement-target/mobile-apps/composer/mobile-visual-experience-composer.html)
+- [Adobe Target VEC SDK documentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-target-vec)
+
 Adobe Target VEC SDK depends on ACP Core and Adobe Target SDK 
 
 More details about them can be found at:
@@ -23,7 +27,6 @@ Installation via [Maven](https://maven.apache.org/) & [Gradle](https://gradle.or
 
     implementation 'com.adobe.marketing.mobile:target:1.+'
     implementation 'com.adobe.marketing.mobile:target-vec:1.+'
-    implementation 'com.google.code.gson:gson:2.8.2'
     implementation 'android.arch.lifecycle:extensions:1.1.1'
     implementation 'io.github.sac:SocketclusterClientJava:1.7.5'
 
