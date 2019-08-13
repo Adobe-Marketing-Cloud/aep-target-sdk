@@ -27,8 +27,11 @@ Installation via [Maven](https://maven.apache.org/) & [Gradle](https://gradle.or
 
     implementation 'com.adobe.marketing.mobile:target:1.+'
     implementation 'com.adobe.marketing.mobile:target-vec:1.+'
+
     implementation 'android.arch.lifecycle:extensions:1.1.1'
     implementation 'io.github.sac:SocketclusterClientJava:1.7.5'
+    implementation 'com.android.support:support-compat:28.0.0'
+    implementation 'com.android.support:support-fragment:28.0.0'
 
 #### <a name="manual-android"></a>Manual installation
 In order to do a manual installation of the AEP SDK `.aar` binaries, please complete the following steps for each `.aar` you need:
@@ -58,7 +61,7 @@ Installation via [Cocoapods](https://cocoapods.org/) is the easiest and recommen
 
     # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
     # use_frameworks!
-    
+
     # Adobe ACP Pods
     pod 'ACPCore', '~> 2.0'
     pod 'ACPTarget', '~> 2.0'
